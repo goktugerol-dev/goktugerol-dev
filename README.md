@@ -3,7 +3,7 @@
 <h4 align='center'> ge_dev@yahoo.com </h4>
 <h4 align='center'>
 <h2 align='center'>
-  Software Engineer | Ingegnere del Software </h2>
+  Software Engineer </h2>
 
 <h4 align='center'>
 
