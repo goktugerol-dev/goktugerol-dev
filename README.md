@@ -10,6 +10,11 @@
 [![Twitter: Goktug](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/geroldev/) 
 	</h4>
 
+<h4 align='center'>
+
+![](https://www.rogerperkin.co.uk/wp-content/uploads/2020/07/cornerstones-computational-thinking.png)
+</h4>
+
 
 <p>
 I'm a software engineer with experience in mission critical software development in the machinery, automotive, aviation and energy industries, Android/Ios and web development.
@@ -56,10 +61,19 @@ Programming Skills
 
 [![C: C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![CPP: CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C#: C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![dotnet: dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://en.wikipedia.org/wiki/.NET_Framework)
 [![Python: Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![Kotlin: Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://en.wikipedia.org/wiki/Node.js)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://en.wikipedia.org/wiki/Node.js)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goktugerol-dev&theme=maroongold&langs_count=10)](https://github.com/goktugerol-dev/github-readme-stats)
 
